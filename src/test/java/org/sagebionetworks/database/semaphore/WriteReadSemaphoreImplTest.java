@@ -305,7 +305,7 @@ public class WriteReadSemaphoreImplTest {
 	}
 	
 	/**
-	 * Helper to validate read locks cannot be aquired for the given keys.
+	 * Helper to validate read locks cannot be acquired for the given keys.
 	 * @param timoutSec
 	 * @param keys
 	 */
